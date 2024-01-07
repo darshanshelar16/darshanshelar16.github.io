@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @darshanshelar16
-- 👀 I’m interested in the new technologies..
-- 🌱 I’m currently learning Computer Engineering.
-- 💞️ I’m looking to collaborate on project related to python and java.
+- 🌱 Working as a Cloud Engineer in Wipro Technologies
 - 📫 How to reach me https://www.linkedin.com/in/darshan-shelar-51a177193/
 - 📝 Visit blog https://darshanshelar1716.wordpress.com/
 - 💼 Visit Portfolio https://darshanshelar16.github.io/
